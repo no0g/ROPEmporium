@@ -2,7 +2,7 @@
 
  - ROPEmporium is a place to "Learn return-oriented programming through a series of challenges."
  - They have 8 challenges 
- - Current progress of mine 5/8
+ - Current progress of mine 6/8
  - Will post writeup on [my site](https://jmp2rsp.tech) soon!
 
 
@@ -25,3 +25,7 @@
 5. badchars
 > An arbitrary write challenge with a twist; certain input characters get mangled as they make their way onto the stack.
 > Find a way to deal with this and craft your exploit.
+
+6. fluff
+> The concept here is similar to the write4 challenge,
+> although we may struggle to find simple gadgets that will get the job done.
